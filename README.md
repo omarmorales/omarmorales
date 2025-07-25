@@ -1,6 +1,7 @@
 ## Salut 👋 je suis Omar Morales!
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/omsamoib?style=social)](https://twitter.com/omsamoib)
+[![mosadev](https://mosadev.com/en)]
 
 💻 Ingénieur logiciel avec plus de 6 ans d'expérience. J'ai travaillé en tant que développeur back-end utilisant JavaScript, PHP et Python, en tant que développeur front-end utilisant HTML, CSS et JavaScript.
 Je suis passionné par l'apprentissage de nouvelles choses chaque jour et par la capacité à résoudre des problèmes en utilisant la technologie.
